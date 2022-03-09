@@ -1,3 +1,4 @@
+[ss Copy (1).PDF](https://github.com/github/docs/files/8212504/ss.Copy.1.PDF)
 ---
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
